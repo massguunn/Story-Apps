@@ -7,6 +7,7 @@ class NavLinks extends LitWithoutShadowDom {
       <ul class="navbar-nav d-flex gap-2 gap-md-3 mt-2 mt-md-0">
         <nav-link content="Dashboard" to="/"></nav-link>
         <nav-link content="Add Story" to="/stories/add.html"></nav-link>
+        <nav-link content="profil" to="/users/profile.html"></nav-link>
       </ul>
     `;
   }
